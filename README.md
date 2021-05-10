@@ -1,4 +1,4 @@
-# Daniel_Smith_PHP_Technical_Assessment_Open_Study_College-master
+# Daniel_Smith_PHP_Technical_Assessment_Open_Study_College
 
 ## Local setup
 
