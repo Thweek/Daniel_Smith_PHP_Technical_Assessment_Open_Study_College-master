@@ -5,7 +5,7 @@
 - Download XAMPP.
 - Clone repo into ./xampp/htdocs folder, this folder should be saved in your C: drive.
 ---
-- Go ./xampp/php and copy the folder address, 
+- Go to ./xampp/php and copy the folder address, 
 - Right click on your My PC page and click properties.
 - Go to advanced system settings, then environment variables.
 - Click on "Path" and then edit.
